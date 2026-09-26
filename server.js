@@ -3,7 +3,7 @@ const axios = require('axios');
 const app = express();
 
 // Set target host (try vidcore.org or vidcore.io if one is down)
-const TARGET_HOST = 'https://vidcore.io';
+const TARGET_HOST = 'https://vidsrc.to';
 
 // Standardized browser headers to avoid instant bot/datacenter blocks
 const BROWSER_HEADERS = {
