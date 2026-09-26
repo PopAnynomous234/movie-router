@@ -1,0 +1,13 @@
+{
+  "name": "vidcore-proxy",
+  "version": "1.0.0",
+  "description": "Express proxy backend for Vidcore stream embedding",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "express": "^4.19.2"
+  }
+}
